@@ -3,4 +3,4 @@
 	I am Koffi
 	This repository houses allthe links for my lab 3
  	Live link:https://kametepe-web.github.io/lab3/.
-	Repo link:
+	Repo link:https://github.com/kametepe-web/lab3
